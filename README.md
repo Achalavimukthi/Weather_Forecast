@@ -19,3 +19,9 @@ The Weather Forecast Application allows users to interact with a world map to se
 
    ```bash
    git clone https://github.com/Achalavimukthi/Weather_Forecast.git
+   ```
+
+Open on Streamlit
+```bash
+https://weatherforecast-ffyu5eqb5shx7kzsbkdua7.streamlit.app/
+```
